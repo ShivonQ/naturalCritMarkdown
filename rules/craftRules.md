@@ -47,8 +47,10 @@ Example: Blacksmithing = D20 + STR + proficiency bonus
 <br>
 <br>
 <br>
+
 ### The Cost of Crafting
 Some magical items require specific ingredients, such as specific plants (nightshade, clover, etc…) or monster parts (dragon scales, hippogriff claw, etc…), per DMs discretion 
+
 ##### Cost to Create
 | Item Rarity | Creation Cost (GP) | Minimum Level |
 |:----:|:-------------|:---------------|
@@ -57,5 +59,3 @@ Some magical items require specific ingredients, such as specific plants (nights
 | Rare | 2,000 | 6 |
 | Very Rare | 20,000 | 11 |
 | Legendary | 100,000 | 17 |
-27.0.0.1 localadmin.bluestembrands.com
-
